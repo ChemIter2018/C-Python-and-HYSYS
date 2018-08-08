@@ -1,0 +1,11 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\bin\Debug\HYSYS_RTO.exe.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\bin\Debug\HYSYS_RTO.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\bin\Debug\HYSYS_RTO.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.Main_RTO.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\Interop.HYSYS.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\HYSYS_RTO\HYSYS_RTO\obj\Debug\HYSYS_RTO.csproj.ResolveComReference.cache
